@@ -1,0 +1,2 @@
+# Qt + Qt WebEngine (Chromium). Mantenha atualizado: as correções de segurança do Chromium vêm com o PySide6.
+PySide6>=6.10,<7.0
